@@ -1,0 +1,2 @@
+#!/bin/sh
+java -XX:+AggressiveHeap -XX:+UseParallelGC -jar /pentest/exploitation/metasploit/data/armitage/armitage.jar $@
