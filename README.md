@@ -1,3 +1,6 @@
+Build In Linux Mint 3.19.0 x86_64 
+29-07-2016
+
 Metasploit [![Build Status](https://travis-ci.org/rapid7/metasploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/metasploit-framework) [![Code Climate](https://img.shields.io/codeclimate/github/rapid7/metasploit-framework.svg)](https://codeclimate.com/github/rapid7/metasploit-framework)
 ==
 The Metasploit Framework is released under a BSD-style license. See
